@@ -12,9 +12,15 @@ This folder contains automated tests for the API to validate both positive and c
 ## Setup
 
 1. Clone the repository and navigate to the `api-tests` directory.
-2. Install the required libraries:
+2. Install the required libraries using:
    ```sh
    pip install -r requirements.txt
+   ```
+   Or using:
+   ```sh
+   pip install requests
+   pip install pytest
+   ```
 
 ## Run
 
