@@ -1,12 +1,13 @@
 # API Tests
 
-This folder contains automated tests for the API to validate common non-compliant scenarios.
+This folder contains automated tests for the API to validate both positive and common non-compliant scenarios.
 
 ## Requirements
 
-- Python 3.x
+- Python 3.4 or later
 - `requests` library
 - `pytest` library
+- The **Water Customer App Backend App** set up and running on *http://localhost:3001*
 
 ## Setup
 
