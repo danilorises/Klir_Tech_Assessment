@@ -12,9 +12,15 @@ This folder contains automated tests for the UI to validate both positive and co
 ## Setup
 
 1. Clone the repository and navigate to the `ui-tests` directory.
-2. Install the required libraries:
+2. Install the required libraries using:
    ```sh
    pip install -r requirements.txt
+   ```
+   Or using:
+   ```sh
+   pip install selenium
+   pip install pytest
+   ```
 
 ## Run
 
